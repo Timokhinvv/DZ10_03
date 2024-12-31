@@ -54,6 +54,8 @@
 
 ![VirtualBox_Ubu2204_31_12_2024_18_26_40](https://github.com/user-attachments/assets/75b5a8c4-f236-4026-bb4a-3f66dfd327e8)
 
+![VirtualBox_Ubu2204_31_12_2024_18_34_03](https://github.com/user-attachments/assets/0808f275-3e24-4683-baad-e39874efea5e)
+
 ---
 
 ## Задания со звёздочкой*
